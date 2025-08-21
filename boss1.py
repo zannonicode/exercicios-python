@@ -1,1 +1,1 @@
-print ('hello world!')
+print ('\033[7;30;42mhello world!\033[m')
